@@ -5,7 +5,7 @@ This folder contains a collection of 3D models and other assets used in the Mark
 
 | File Name | Contents |
 |---|---|
-| MD_Main Animation.blend | The scene model showing the hard stop and variations of Mark Duggan throwing the gun at different moments. |
+| MD_Main Animation.blend | The event model, showing the hard stop and variations of Mark Duggan throwing the gun at different moments. |
 | MD_Site Context.blend | The buildings and streetscape in the surrounding area. |
 | MD_Mark Duggan Body.blend | The body of Mark Duggan including shot lines and bullet entry and exit wounds. |
 | MD_CO19 Officers.blend | The bodies of the CO19 firearms officers. |
@@ -17,7 +17,7 @@ In order to open these files you will need to download Blender:
 
 This file contains what is referred to as the 'event model'.  It contains models of the site context, vehicles and characters, all of which were present at the moment of the hard stop.  The models are articulated with armatures and animated to reflect the reconstruction of the movements of the CO19 officers and Mark Duggan as worked out by Forensic Architecture.
 
-Parts of the 3D model can be browsed using 'collections' in the Blender outliner.  For instructions on using the Blender outline, see here: https://docs.blender.org/manual/en/latest/scene_layout/view_layers/introduction.html#outliner
+Parts of the 3D model can be browsed using 'collections' in the Blender outliner.  For instructions on using the Blender outliner, see here: https://docs.blender.org/manual/en/latest/scene_layout/view_layers/introduction.html#outliner
 
 The collection 'Actors' contains 3D models of all persons that were present at the moment of the hard stop.  The sub-collection 'Mark Duggan' contains sub-collections representing the 5 scenarios for the movement of the gun from the minicab to the grass. Including Mark Duggan exiting the minicab and Mark Duggan throwing the gun after the second shot.  These can be toggled by pressing the checkbox next to the colection in the outliner.
 
@@ -41,9 +41,9 @@ This file contains a 3D model of the static elements of the surrounding streetsc
 
 ## Mark Duggan Body
 
-This file contains a 3D model of the body of Mark Duggan including markings for the entry and exit holes of the two shots.  It also contains two shot lines indicating the path of the shots through Mark Duggan's body.  The he model also includes Mark Duggan's jacket. This file is referenced into the file MD_Main Animation.blend.
+This file contains a 3D model of the body of Mark Duggan including markings for the entry and exit holes of the two shots.  It also contains two shot lines indicating the path of the shots through Mark Duggan's body.  The model also includes Mark Duggan's jacket. This file is referenced into the file MD_Main Animation.blend.
 
 ## CO19 Officers
 
-This file contains 3D models of the bodies of the CO19 firearms officers invlolved in the hard stop.
+This file contains 3D models of the bodies of the CO19 firearms officers invlolved in the hard stop. This file is referenced into the file MD_Main Animation.blend.
 
