@@ -1,7 +1,6 @@
 # 3D Files
 
 This folder contains a collection of 3D models and other assets used in the Mark Duggan investigation.
-[our investigations](https://forensic-architecture.org/). 
 
 | File Name | Contents |
 |---|---|
