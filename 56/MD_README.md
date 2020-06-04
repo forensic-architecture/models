@@ -11,11 +11,11 @@ This folder contains a collection of 3D models and other assets used in the Mark
 | MD_CO19 Officers.blend | The bodies of the CO19 firearms officers. |
 
 In order to open these files you will need to download Blender:
-[Blender](https://www.blender.org/download/)
+https://www.blender.org/download/
 
 ## Main Animation
 
-This file contains what is referred to as the 'event model'.  It contains models of the site context, vehicles and characters, all of which were present at the moment of the hard stop.  The models are articulated with armatures and animated to reflect the reconstruction of the movements of the CO19 officers and Mark Duggan as worked out by Forensic Architecture.
+This file contains what is referred to as the 'event model'.  It contains models of the site context, vehicles and characters, all of which were present at the moment of the hard stop.  The models are articulated with armatures and animated to reflect the reconstruction of the movements of the CO19 officers and Mark Duggan as determined by Forensic Architecture.
 
 Parts of the 3D model can be browsed using 'collections' in the Blender outliner.  For instructions on using the Blender outliner, see here: https://docs.blender.org/manual/en/latest/scene_layout/view_layers/introduction.html#outliner
 
