@@ -9,3 +9,5 @@ This folder contains a collection of 3D models and other assets used in the Mark
 | MD_Site Context.blend | The buildings and streetscape in the surrounding area. |
 | MD_Mark Duggan Body.blend | The body of Mark Duggan including shot lines and bullet entry and exit wounds. |
 | MD_CO19 Officers.blend | The bodies of the CO19 firearms officers. |
+
+## Main Animation
