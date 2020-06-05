@@ -1,6 +1,6 @@
 # 3D Files
 
-This folder contains a collection of 3D models and other assets used in the Mark Duggan investigation.
+This folder contains a collection of 3D models used in the Mark Duggan investigation.
 
 | File Name | Contents |
 |---|---|
@@ -9,8 +9,7 @@ This folder contains a collection of 3D models and other assets used in the Mark
 | MD_Mark Duggan Body.blend | The body of Mark Duggan including shot lines and bullet entry and exit wounds. |
 | MD_CO19 Officers.blend | The bodies of the CO19 firearms officers. |
 
-In order to open these files you will need to download Blender:
-https://www.blender.org/download/
+In order to open these files you will need to download [Blender](https://www.blender.org/download/)
 
 ## Main Animation
 
