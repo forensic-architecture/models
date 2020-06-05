@@ -15,15 +15,17 @@ In order to open these files you will need to download [Blender](https://www.ble
 
 This file contains what is referred to as the 'event model'.  It contains models of the site context, vehicles and characters, all of which were present at the moment of the hard stop.  The models are articulated with armatures and animated to reflect the reconstruction of the movements of the CO19 officers and Mark Duggan as determined by Forensic Architecture.
 
-The 3D model can be browsed using 'collections' in the [Blender Outliner](https://docs.blender.org/manual/en/latest/scene_layout/view_layers/introduction.html#outliner).
+The 3D model can be browsed using 'collections' in the [Blender outliner](https://docs.blender.org/manual/en/latest/scene_layout/view_layers/introduction.html#outliner).
 
 The collection 'Actors' contains 3D models of all persons that were present at the moment of the hard stop.  The sub-collection 'Mark Duggan' contains sub-collections representing the 5 scenarios for the movement of the gun from the minicab to the grass including:
 
-[0] - Mark Duggan exiting the minicab without a gun.
-[1] - Mark Duggan throwing the gun before exiting the minicab.
-[2] - Mark Duggan throwing the gun before the first shot.  
-[3] - Mark Duggan throwing the gun after the first shot.
-[4] - Mark Duggan throwing the gun after the second shot.  
+| Scenario No. | Event |
+|---|---|
+|0| Mark Duggan exiting the minicab without a gun.|
+|1| Mark Duggan throwing the gun before exiting the minicab.|
+|2| Mark Duggan throwing the gun before the first shot.|  
+|3| Mark Duggan throwing the gun after the first shot.|
+|4| Mark Duggan throwing the gun after the second shot.|
 
 These can be toggled by pressing the checkbox next to the colection in the outliner.
 
