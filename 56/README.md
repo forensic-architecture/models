@@ -9,7 +9,7 @@ This folder contains a collection of 3D models used in the Mark Duggan investiga
 | MD_Mark Duggan Body.blend | The body of Mark Duggan including shot lines and bullet entry and exit wounds. |
 | MD_CO19 Officers.blend | The bodies of the CO19 firearms officers. |
 
-In order to open these files you will need to download [Blender](https://www.blender.org/download/).
+In order to open these files you will need to download [Blender](https://www.blender.org/download/).  You will need to download all the files into the same folder to use the Main Animation file.
 
 ## Main Animation
 
