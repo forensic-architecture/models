@@ -1,5 +1,7 @@
 # 3D Files
 
+![Image of Mark Duggan exiting the minicab](img/mark_duggan_exit.jpg)
+
 This folder contains a collection of 3D models used in the Mark Duggan investigation.
 
 | File Name | Contents |
