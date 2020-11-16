@@ -1,6 +1,6 @@
 # 3D Files
 
-![Image Beirut Blast Model](img/beirut-blast.jpg)
+![Image Beirut Blast Model](img/beirut-blast.png)
 
 This folder contains a collection of 3D models used in the Beirut Blast investigation.
 
