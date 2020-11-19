@@ -15,6 +15,8 @@ The table below details the individual files.
 |**.c4d**|
 | [Site and Clouds.c4d](https://datasheet-sources.ams3.digitaloceanspaces.com/beirut_models/C4D/Site%20and%20Clouds.c4d) | The port of beirut and a large portion of the city as well as some of the camera locations where footage was captured and different clouds and a blast representative of the envelope of the fire and explosion at different times. |
 | [Warehouse.c4d](https://datasheet-sources.ams3.digitaloceanspaces.com/beirut_models/C4D/Warehouse.c4d) | There are several different clouds and a blast representative of the envelope of the fire and explosion at different times. |
+|**other**|
+| [Media_inventory.xlsx](https://datasheet-sources.ams3.digitaloceanspaces.com/beirut_models/Media_inventory.xlsx) | An inventory of media used in the investigation. |
 
 In order to open the Blender files you will need to download [Blender](https://www.blender.org/download/).  You will need to download all the files into the same folder to use 'Clouds.blend'.
 In order to open the Cinema4D files you will need to download [Cinema4D](https://www.maxon.net/en/cinema-4d)
