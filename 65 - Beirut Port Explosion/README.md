@@ -1,10 +1,12 @@
 # 3D Files
 
-This repository contains a collection of 3D models and other assets used in the Beirut Port Explosion investigation.  In order to open these files you will need to download [Blender](https://www.blender.org/download/) and if you would like to use the .c4d files you will need [Cinema4D](https://www.maxon.net/en/cinema-4d).
+This repository contains a collection of 3D models and other assets used in the Beirut Port Explosion investigation.
 
 ![Image of Warehouse](img/warehouse.jpg)
 
 ## [**Click here to download all of the 3D models.**](https://fa-public-assets.fra1.digitaloceanspaces.com/Beirut/Beruit%20-%203D%20Models.zip)
+
+In order to open these files you will need to download [Blender](https://www.blender.org/download/) and if you would like to use the .c4d files you will need [Cinema4D](https://www.maxon.net/en/cinema-4d).
 
 The table below details the individual files.
 
