@@ -1,7 +1,7 @@
 # Models
 
 This repository contains a collection of 3D models and other assets used in
-[our investigations](https://forensic-architecture.org/). 
+[our investigations](https://forensic-architecture.org/).  The table below shows the investigation number, a link to the 3D models associated with the investigation, and a link to the FA investigation page.
 
 | Investigation Number | 3D Model | FA Investigation Page |
 |---|---|---|
