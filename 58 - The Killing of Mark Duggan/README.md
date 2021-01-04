@@ -6,7 +6,7 @@ This page is a portal for the 3D models used in the Mark Duggan investigation.
 
 ## [Click here to download the 3D models](https://fa-public-assets.fra1.digitaloceanspaces.com/MarkDuggan/Mark%20Duggan_3D%20Models.zip)
 
-The zip file above contains a collection of Blender files all of which are required to vioew the model.
+The zip file above contains a collection of Blender files all of which are required to vioew the model. In order to open these files you will need to download [Blender](https://www.blender.org/download/).  You will need to download all the files into the same folder to use the Main Animation file.
 
 | File Name | Contents |
 |---|---|
@@ -14,8 +14,6 @@ The zip file above contains a collection of Blender files all of which are requi
 | MD_Site Context.blend | The buildings and streetscape in the surrounding area. |
 | MD_Mark Duggan Body.blend | The body of Mark Duggan including shot lines and bullet entry and exit wounds. |
 | MD_CO19 Officers.blend | The bodies of the CO19 firearms officers. |
-
-In order to open these files you will need to download [Blender](https://www.blender.org/download/).  You will need to download all the files into the same folder to use the Main Animation file.
 
 ## Main Animation
 
