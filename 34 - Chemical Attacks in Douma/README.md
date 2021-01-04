@@ -1,5 +1,18 @@
-This is a guide for how to use the Blender files included in this folder.
+# Chemical Attacks in Douma - 3D Models
 
-In the outliner, in the "Cameras" collection, you will see names such as cam_07 followed by a frame number e.g. (F120).  
-The frame number represents the scene frame that corresponds with the camera image.
-In order to change the scene frame move the playhead in the timeline.
+This page is a portal for the 3D models used in the Chemical Attacks in Douma investigation.
+
+![Chemical Attacks in Douma](img/douma.png)
+
+## [**Click here to download the 3D models.**](https://fa-public-assets.fra1.digitaloceanspaces.com/MarkDuggan/Mark%20Duggan_3D%20Models.zip)
+
+The download above contains a collection of Blender files all of which are required to view the model. **In order to open these files you will need to download [Blender](https://www.blender.org/download/).**
+
+| File Name | Contents |
+|---|---|
+| [Douma - Canisters Only.blend](https://fa-public-assets.fra1.digitaloceanspaces.com/Douma/Douma%20-%20Canisters%20Only.blend) | Canister models only. |
+| [Douma - Location 2.blend](https://fa-public-assets.fra1.digitaloceanspaces.com/Douma/Douma%20-%20Canisters%20Only.blend) | Location 2, the balcony. |
+| [Douma - Location 4.blend](https://fa-public-assets.fra1.digitaloceanspaces.com/Douma/Douma%20-%20Canisters%20Only.blend) | Location 4, the bedroom. |
+
+
+
