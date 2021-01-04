@@ -10,5 +10,5 @@ The download above contains a collection of Blender files all of which are requi
 
 | File Name | Contents |
 |---|---|
-| [al Lataminah.blend](https://fa-public-assets.fra1.digitaloceanspaces.com/alLataminah/al%20Lataminah.blend) | aL Lataminah model showing the M4000 bomb and its assembly. |
+| [al Lataminah.blend](https://fa-public-assets.fra1.digitaloceanspaces.com/alLataminah/al%20Lataminah.blend) | The M4000 bomb and its constituent parts assembled. |
 
