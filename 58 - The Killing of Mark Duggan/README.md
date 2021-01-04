@@ -1,4 +1,4 @@
-# 3D Files
+# The killing of Mark Duggan - 3D Models
 
 ![Image of Mark Duggan exiting the minicab](img/mark_duggan_exit.png)
 
