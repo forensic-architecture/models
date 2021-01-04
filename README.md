@@ -3,7 +3,7 @@
 This repository contains a collection of 3D models and other assets used in
 [our investigations](https://forensic-architecture.org/). 
 
-| Investigation No. | 3D Model | FA Investigation Page |
+| Investigation Number | 3D Model | FA Investigation Page |
 |---|---|---|
 | 34 | [Chemical Attacks in Douma - 3D Model](https://github.com/forensic-architecture/models/tree/master/34%20-%20Chemical%20Attacks%20in%20Douma) | [Chemical Attacks in Douma - FA Investigation](https://forensic-architecture.org/investigation/chemical-attacks-in-douma) |
 | 41 | [Chemical Attacks in Al Lataminah - 3D Model](https://github.com/forensic-architecture/models/tree/master/41%20-%20Chemical%20Attacks%20in%20al%20Lataminah) | [Chemical Attacks in Al Lataminah - FA Investigation](https://forensic-architecture.org/investigation/chemical-attacks-in-al-lataminah) |
