@@ -1,12 +1,12 @@
 # The killing of Mark Duggan - 3D Models
 
+This page is a portal for the 3D models used in the Mark Duggan investigation.
+
 ![Image of Mark Duggan exiting the minicab](img/mark_duggan_exit.png)
 
-This page is a portal for the 3D models used in the Mark Duggan investigation.  
+## [Click here to download the 3D models.](https://fa-public-assets.fra1.digitaloceanspaces.com/MarkDuggan/Mark%20Duggan_3D%20Models.zip)
 
-## [Click here to download the 3D models](https://fa-public-assets.fra1.digitaloceanspaces.com/MarkDuggan/Mark%20Duggan_3D%20Models.zip)
-
-The zip file above contains a collection of Blender files all of which are required to vioew the model. In order to open these files you will need to download [Blender](https://www.blender.org/download/).  You will need to download all the files into the same folder to use the Main Animation file.
+The download above contains a collection of Blender files all of which are required to view the model. In order to open these files you will need to download [Blender](https://www.blender.org/download/).  You will need to download all the files into the same folder to use the Main Animation file.
 
 | File Name | Contents |
 |---|---|
