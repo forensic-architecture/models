@@ -2,7 +2,7 @@
 
 This page is a portal for the 3D models used in the Mark Duggan investigation.
 
-![Image of Mark Duggan exiting the minicab](img/mark_duggan_exit.png)
+![Image of Mark Duggan exiting the minicab](img/Scene overview.jpg)
 
 ## [**Click here to download the 3D models.**](https://fa-public-assets.fra1.digitaloceanspaces.com/MarkDuggan/Mark%20Duggan_3D%20Models.zip)
 
