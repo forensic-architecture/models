@@ -4,7 +4,7 @@ This page is a portal for the 3D models used in the Chemical Attacks in al Latam
 
 ![Chemical Attacks in al Lataminah](img/M4000.png)
 
-## [**Click here to download the 3D models.**](https://fa-public-assets.fra1.digitaloceanspaces.com/alLataminah/al%20Lataminah.blend)
+## [**Click here to download all of the 3D models.**](https://fa-public-assets.fra1.digitaloceanspaces.com/alLataminah/al%20Lataminah.blend)
 
 The download above contains a collection of Blender files all of which are required to view the model. In order to open these files you will need to download [Blender](https://www.blender.org/download/).
 

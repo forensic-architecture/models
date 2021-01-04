@@ -4,7 +4,7 @@ This repository contains a collection of 3D models and other assets used in the 
 
 ![Image of Warehouse](img/warehouse.jpg)
 
-## [**Click here to download all the 3D models.**](https://fa-public-assets.fra1.digitaloceanspaces.com/Beirut/Beruit%20-%203D%20Models.zip)
+## [**Click here to download all of the 3D models.**](https://fa-public-assets.fra1.digitaloceanspaces.com/Beirut/Beruit%20-%203D%20Models.zip)
 
 The table below details the individual files.
 
