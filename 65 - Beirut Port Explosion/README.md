@@ -2,7 +2,7 @@
 
 ![Image of Warehouse](img/warehouse.jpg)
 
-This folder contains a collection of 3D models used in the Beirut Port Explosion investigation.
+This repository contains a collection of 3D models and other assets used in the Beirut Port Explosion investigation.  In order to open these files you will need to download [Blender](https://www.blender.org/download/).
 
 The table below details the individual files.
 
