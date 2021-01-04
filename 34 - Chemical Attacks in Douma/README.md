@@ -2,7 +2,7 @@
 
 This page is a portal for the 3D models used in the Chemical Attacks in Douma investigation.
 
-![Chemical Attacks in Douma](img/douma.png)
+![Chemical Attacks in Douma](img/Douma.png)
 
 ## [**Click here to download the 3D models.**](https://fa-public-assets.fra1.digitaloceanspaces.com/Douma/Chemical%20Attacks%20in%20Douma_3D%20Models.zip)
 
