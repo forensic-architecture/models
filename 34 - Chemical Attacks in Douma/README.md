@@ -4,7 +4,7 @@ This page is a portal for the 3D models used in the Chemical Attacks in Douma in
 
 ![Chemical Attacks in Douma](img/douma.png)
 
-## [**Click here to download the 3D models.**](https://fa-public-assets.fra1.digitaloceanspaces.com/MarkDuggan/Mark%20Duggan_3D%20Models.zip)
+## [**Click here to download the 3D models.**](https://fa-public-assets.fra1.digitaloceanspaces.com/Douma/Chemical%20Attacks%20in%20Douma_3D%20Models.zip)
 
 The download above contains a collection of Blender files all of which are required to view the model. **In order to open these files you will need to download [Blender](https://www.blender.org/download/).**
 
