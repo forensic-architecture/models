@@ -2,7 +2,7 @@
 
 This page is a portal for the 3D models used in the Chemical Attacks in al Lataminah investigation.
 
-![Chemical Attacks in al Lataminah](img/alLataminah.png)
+![Chemical Attacks in al Lataminah](img/M4000.png)
 
 ## [**Click here to download the 3D models.**](https://fa-public-assets.fra1.digitaloceanspaces.com/alLataminah/al%20Lataminah.blend)
 
