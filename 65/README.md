@@ -4,8 +4,6 @@ This repository contains a collection of 3D models and other assets used in the 
 
 ![Image of Warehouse](img/warehouse.jpg)
 
-## [**Click here to download all of the 3D models.**](https://fa-public-assets.fra1.digitaloceanspaces.com/Beirut/Beruit%20-%203D%20Models.zip)
-
 In order to open these files you will need to download [Blender](https://www.blender.org/download/) and if you would like to use the .c4d files you will need [Cinema4D](https://www.maxon.net/en/cinema-4d).
 
 The table below details the individual files.
@@ -21,6 +19,7 @@ The table below details the individual files.
 | [Warehouse.c4d](https://fa-public-assets.fra1.digitaloceanspaces.com/Beirut/Warehouse.c4d) | There are several different clouds and a blast representative of the envelope of the fire and explosion at different times. |
 |**other**|
 | [Media_inventory.xlsx](https://datasheet-sources.ams3.digitaloceanspaces.com/beirut_models/Media_inventory.xlsx) | An inventory of media used in the investigation. |
+| [BeirutPort_Aug5_2020.ply](https://drive.google.com/file/d/13e1ad83sgjbkhrOjPEwUfTmB3G10kJaX/view?usp=share_link) | A Stanford PLY point cloud file of the Beirut Port from the 5th August, 2020. |
 
 In order to open the Blender files you will need to download [Blender](https://www.blender.org/download/).  You will need to download all the files into the same folder to use 'Clouds.blend'.
 In order to open the Cinema4D files you will need to download [Cinema4D](https://www.maxon.net/en/cinema-4d)
