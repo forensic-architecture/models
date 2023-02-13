@@ -11,7 +11,7 @@ The table below details the individual files.
 | File Name | Contents |
 |---|---|
 |**3D Models**|
-| [BeirutPort_Aug5_2020.ply](https://drive.google.com/file/d/13e1ad83sgjbkhrOjPEwUfTmB3G10kJaX/view?usp=share_link) | A Stanford PLY point cloud file of the Beirut Port from the 5th August, 2020. |
+| [BeirutPort_Aug5_2020.ply](https://fa-public-assets.fra1.cdn.digitaloceanspaces.com/Beirut%2FBeirutPort_Aug5_2020.ply) | A Stanford PLY point cloud file of the Beirut Port from the 5th August, 2020. |
 | [Site.blend](https://fa-public-assets.fra1.digitaloceanspaces.com/Beirut/Site.blend) | The port of beirut and a large portion of the city as well as some of the camera locations where footage was captured. |
 | [Warehouse.blend](https://fa-public-assets.fra1.digitaloceanspaces.com/Beirut/Warehouse.blend) | Objects that were housed inside including tyres, fireworks and bags of ammonium nitrate. |
 | [Clouds.blend](https://fa-public-assets.fra1.digitaloceanspaces.com/Beirut/Clouds.blend) | There are several different clouds and a blast representative of the envelope of the fire and explosion at different times. |
