@@ -2,9 +2,9 @@
 
 This repository contains a collection of 3D models and other assets used in the Saydnaya Prison investigation.
 
-In order to open these files you will need to download [Blender](https://www.blender.org/download/) and if you would like to use the .3dm files you will need [Rhino](https://www.rhino3d.com/).
+In order to open these files you will need to download [Blender](https://www.blender.org/download/).
 
-The table below details the individual files.
+The table below outlines the models.
 
 | File Name | Contents |
 |---|---|
